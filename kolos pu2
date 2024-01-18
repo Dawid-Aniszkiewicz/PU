@@ -1,0 +1,18 @@
+1a;
+4^0.86 / sin(%pi/12);
+1b;
+X=[7,-2,3,0;3,8,0,6,;1,-2,9,8;6,3,-1,0];
+det(X);
+1c
+V=(sqrt(3)/2)*a^2*h;
+1d
+na pozniej
+2.
+
+3.
+Rok =[2015,2017,2019];
+Liczby =[74,72,73;82,80,84;93,91,90];
+bar(Rok,Liczby)
+xtitle('Zadanie 3 Wykres','Rok','Ilosc')
+legend(['Mtv';'Eska';'Vh1'],pos=1)
+;
